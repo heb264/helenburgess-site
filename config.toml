@@ -91,20 +91,19 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-graduation-cap"
       title = "Education"
-      description = "I am a trained lecturer in Information Technology specialising in the presentation of information on the Internet."
+      description = "I am a trained lecturer in Information Technology specialising in the presentation of information on the internet. I have trained 100's of students in the art of web development over the last 17 years"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Responsive Design"
-      description = "By taking designers work and creating the code that makes a responsive site. <br> This will be in a technology chosen to best fit the requirements"
+      description = "By taking designers work and creating the code that make a responsive site. This would be in a chosen technology that best fits the requirements of YOU the client."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-lock"
       title = "Web"
-      description = "All thing about web technology yet more specifically in how to make sure your web presence is as secure as it can be, through the
-      idea of **need to know** and future proofing yourself."
+      description = "Keeping up with all the things on the internet about web technology. Specifically around how to make sure YOUR web presence is as secure as it can be, through the ideas of **need to know** and **future proofing."
       url = "#"
 
   # Portfolio section
@@ -128,36 +127,29 @@ googleAnalytics = ""
   [params.about]
     enable = true
     title = "About"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
-    endpoint = "Be part<br>of our<br>story!"
+    subtitle = "A brief history of my technology evolution"
+    endpoint = "Be part<br>of the<br>story!"
 
     # The events will be listed from the top to the bottom.
     # All images are stored under 'static/img/about'.
     # Replace them with your own.
     [[params.about.events]]
-      img = "1.jpg"
+      img = "raaf-badge.png"
       date = "1984-2000"
-      title = "One career in the Royal Australian Air Force"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      title = "Royal Australian Air Force"
+      description = "This is where I learned the value of teamwork, collaboration, use of technology and hands-on training."
 
     [[params.about.events]]
       img = "2.jpg"
-      date = "March 2011"
-      title = "An Agency is Born"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      date = "2001 - 2015"
+      title = "Central Institute of Technology"
+      description = "Now known as the North Metropolitan TAFE college. I worked as lecturer here and was required to keep my industry knowledge up to date as well as my teaching ability. This is where I honed my skills as a trainer."
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "December 2012"
-      title = "Our Humble Beginnings"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-
-    [[params.about.events]]
-      img = "4.jpg"
-      date = "July 2014"
-      title = "Phase Two Expansion"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-
+      date = "2015 - to now"
+      title = "Graphitedge - Freelancing"
+      description = "After leaving the TAFE college I embarked on a freelance career. I work as a casual lecturer for Codemaster Institute as well as create and maintain sites for clients."
 
 
 
@@ -165,27 +157,27 @@ googleAnalytics = ""
     [params.clients_list]
       enable = true
       # Possibility to center items
-      #center = true
+      center = true
       # Optional client title specifying the involvement
       #title = "Used and trusted by"
 
-      # All the clients' logos are stored under 'static/img/logos'.
+      #All the clients' logos are stored under 'static/img/logos'.
       # Replace them with your clients's logos.
       # Suggestion: .svg in the size of 280px*80px looks good
       [[params.clients]]
-        logo = "envato.jpg"
-        link = "#"
+        logo = "codemasterinstitute.png"
+        link = "https://codemasterinstitute.com"
 
       [[params.clients]]
-        logo = "designmodo.jpg"
-        link = "#"
+        logo = "soulbright.png"
+        link = "http://soulbright.com.au"
 
       [[params.clients]]
-        logo = "themeforest.jpg"
-        link = "#"
+        logo = "StirefireStudioLogo.png"
+        link = "https://stirfire.net"
 
       [[params.clients]]
-        logo = "creative-market.jpg"
+        logo = "OTOTGo-logo.png"
         link = "#"
 
   # Contact section
