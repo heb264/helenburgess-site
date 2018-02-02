@@ -2,7 +2,7 @@
 baseURL = "/"
 languageCode = "en-au"
 title = "A portfolio for ..."
-theme = "forty"
+theme = "heb264"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
