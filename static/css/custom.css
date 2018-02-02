@@ -1,0 +1,56 @@
+            /*custom css for Graphitedge*/
+
+        @media (min-width: 768px) {
+            .navbar-default.navbar-shrink {
+                background-color: rgba(77, 77, 77, 1);
+                .navbar-default.navbar-shrink .nav li a {
+                    color: #111110
+                }
+            }
+            .navbar-default {
+                background-color: rgba(0, 0, 0, 0.5);
+            }
+            .navbar-default .nav li a:hover,
+            .navbar-default .nav li a:focus,
+            .text-primary,
+            a,
+            a:hover {
+                color: #a21111;
+            }
+            .btn-xl {
+                border-color: #a21111;
+                background-color: #a21111;
+            }
+            .btn-xl:hover,
+            .btn-xl:focus,
+            .btn-xl:active,
+            .btn-xl.active,
+            .open .dropdown-toggle.btn-xl,
+            ul.social-buttons li a:hover,
+            ul.social-buttons li a:focus,
+            ul.social-buttons li a:active {
+                border-color: #881111;
+                background-color: #881111;
+            }
+            .disabled:disabled {
+                border-color: #a80000;
+                background-color: rgba(168, 0, 0, 0.5);
+            }
+            .flexbox {
+                justify-content: space-around;
+                align-items: center;
+                filter: grayscale(1);
+            }
+            .text-muted {
+                color: #4c3d3d;
+            }
+            header {
+                filter: grayscale(1)
+            }
+            .team-member img {
+    
+                box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+            }
+            section#contact {
+                background-color: rgba(77, 77, 77, 0.7);
+            }
